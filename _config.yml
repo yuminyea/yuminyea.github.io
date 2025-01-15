@@ -35,7 +35,7 @@ lin:
     googleplus: +jekyll
     keybase: jekyll
 
-theme: just-the-docs
+theme: lin
 
 plugins:
  - jekyll-feed
